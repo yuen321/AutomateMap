@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AutomateMap</string>
+    <string name="main_screen">Main Screen</string>
+    <string name="map_screen">Map Screen</string>
+    <string name="show_map">Show Map Screen</string>
+    <string name="search">Search</string>
+    <string name="accessibility_service_label">AutomateMapServiceLabel</string>
+</resources>
